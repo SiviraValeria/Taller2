@@ -28,4 +28,4 @@ int main() {
     return 0; // Fin del programa.
 }
 
-// Alumno: Valeria Sivira (30.621.832).
+// Alumno: Valeria Sivira.
